@@ -1,0 +1,89 @@
+.second-div{
+    background-color: balck;
+}
+.main-div{
+    margin:auto;
+}
+.first-div{
+width: 1512px;
+height: 588px;
+top: -6px;
+left: -601px;
+gap: 0px;
+opacity: 0px;
+background-image: url('Rectangle 18.png');
+display: flex;
+
+}
+.second-div{
+width:100%;
+display: flex;
+background-color: black;
+
+}
+
+.second-s-div>img{
+    width: 200px;
+}
+.second-div p{
+   color: white;
+   font-size: 30px;
+}
+.second-f-div>div{
+    width:200px
+}
+.third-div{
+width: 1512px;
+height: 716px;
+gap: 0px;
+opacity: 0.71px;
+background-image: url("Rectangle 21.jpg");
+
+}
+.fourth-div{
+width: Fixed (1,512px)px;
+height: Fixed (3,300px)px;
+top: -6px;
+left: -601px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.first-f-div{
+display: flex;
+width: 106px;
+height: 117px;
+top: 21px;
+left: -513px;
+gap: 0px;
+opacity: 0px;
+border: 3px solid blue;
+margin-top: 20px;
+margin-left: 30px;
+
+}
+.first-s-div{
+display: flex;
+background-color: black;
+width:fit-content;
+height: fit-content;
+border-radius: 10px;
+margin-top: 20px;
+margin-left: 200px;
+font-size: 20px;
+color: white;
+flex-wrap: wrap;
+}
+.first-t-div{
+    display: flex;
+    margin-left: 100px;
+}
+p{
+font-family: Shojumaru;
+font-size: 45px;
+font-weight: 400;
+line-height: 53.55px;
+text-align: center;
+
+}
